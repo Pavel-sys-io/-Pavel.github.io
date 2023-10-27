@@ -14,7 +14,6 @@
         <input type="password" id="password" name="password"><br>
         <input type="submit" value="Login">
     </form>
-<script src="https://raw.githubusercontent.com/Pavel-sys-io/javaskript/main/script.js"></script>
 
 </body>
 </html>
